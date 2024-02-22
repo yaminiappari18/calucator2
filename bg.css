@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4f299Q7ayjSZyYorksfpRbuSbhg2W2Ep57A&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+button{
+   background-color:rgba(152, 74, 19, 0.152);
+};
+}
+#result{
+   background-color: rgba(22, 1, 4, 0.514);
+}
+button:hover{
+             background-color: rgba(163, 7, 7, 0.26);
+}
